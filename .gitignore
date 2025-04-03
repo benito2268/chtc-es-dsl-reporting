@@ -1,0 +1,5 @@
+misc/
+old/
+testing/
+__pycache__/
+*test*
